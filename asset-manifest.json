@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/billiards-on-canvas/static/css/main.e577d344.css",
+    "main.js": "/billiards-on-canvas/static/js/main.840d1fb3.js",
+    "static/media/board.jpg": "/billiards-on-canvas/static/media/board.2a2028b4087d03bb5a18.jpg",
+    "index.html": "/billiards-on-canvas/index.html",
+    "main.e577d344.css.map": "/billiards-on-canvas/static/css/main.e577d344.css.map",
+    "main.840d1fb3.js.map": "/billiards-on-canvas/static/js/main.840d1fb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e577d344.css",
+    "static/js/main.840d1fb3.js"
+  ]
+}
