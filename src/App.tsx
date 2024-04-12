@@ -6,7 +6,7 @@ import BoardComponent from './components/BoardComponent';
 function App() {
   return (
     <div className="App">
-      //! ADD scoreGoals
+      {/* add Goals */}
         <BoardComponent height={600} width={400}/>
        
     </div>
